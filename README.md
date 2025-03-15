@@ -27,7 +27,7 @@
 1. ### Clone the Repository
 
 ```bash
-git clone https://github.com/Alois117/-Checkpoint-Debugging-React.git
+git clone https://github.com/Alois117/Checkpoint-Deployment.git
 cd TaskList Project
 
 ```
